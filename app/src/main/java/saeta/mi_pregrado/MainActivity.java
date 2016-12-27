@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity{
 // Apply the adapter to the spinner
         planets_spinner.setAdapter(adapter);
 
+//safe position
+
 
     }
 
